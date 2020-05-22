@@ -1,0 +1,6 @@
+#wrapper {
+  margin-top: 100px;
+}
+input type[submit] {
+  cursor: pointer;
+}
